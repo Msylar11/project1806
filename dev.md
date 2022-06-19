@@ -1,3 +1,3 @@
 # hey
 
-some update 19/06/2022
+some updated 19.06
